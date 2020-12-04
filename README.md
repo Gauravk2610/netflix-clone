@@ -1,3 +1,12 @@
+# Netflix-Clone
+It is Been Deployed on https://netflix-clone-eca2f.web.app/
+
+![netflix](https://user-images.githubusercontent.com/63660013/101206923-db2b3100-3695-11eb-8f77-fdd3a91073bb.PNG)
+
+![netflix2](https://user-images.githubusercontent.com/63660013/101206967-e8482000-3695-11eb-84b0-4d9c5af4d9a1.PNG)
+
+![netflix3](https://user-images.githubusercontent.com/63660013/101206978-ec743d80-3695-11eb-8e33-8da78f98f9e7.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
